@@ -7,6 +7,8 @@
 Doctools without configuration file (`conf.py` / `mkdocs.yml`) are deprecated
 =============================================================================
 
+让我们来尝试改变一下文档内容吧！
+
 Historically Read the Docs has created a `conf.py` file for Sphinx projects and a `mkdocs.yml` file for MkDocs projects that don't provide one,
 to make onboarding easier. 
 This has been confusing a lot our users in different ways and **we will remove the auto-creation of a default Sphinx/MkDocs configuration file for projects that don't have one on August 28th**. 
